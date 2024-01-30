@@ -1,11 +1,2 @@
-# Miguel Bejarano Perdomo
-
-Hola, soy un archivo markdown :D
-
-
-$$
-\Gamma(x) = \int_0^t x^{2-x}e^{-1/x}dt\,
-$$
-Lo único para lo que los he usado es para que mi matemática sea legible...
-
-```
+En un lugar de la mancha de cuyo nombre no quiero acordarme...
+Don quijote, entendi la referencia.
